@@ -1,0 +1,13 @@
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\obj\Debug\netcoreapp3.1\AccountCSV.csprojAssemblyReference.cache
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\obj\Debug\netcoreapp3.1\AccountCSV.AssemblyInfoInputs.cache
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\obj\Debug\netcoreapp3.1\AccountCSV.AssemblyInfo.cs
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\obj\Debug\netcoreapp3.1\AccountCSV.csproj.CoreCompileInputs.cache
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\bin\Debug\netcoreapp3.1\AccountCSV.exe
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\bin\Debug\netcoreapp3.1\AccountCSV.deps.json
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\bin\Debug\netcoreapp3.1\AccountCSV.runtimeconfig.json
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\bin\Debug\netcoreapp3.1\AccountCSV.runtimeconfig.dev.json
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\bin\Debug\netcoreapp3.1\AccountCSV.dll
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\bin\Debug\netcoreapp3.1\AccountCSV.pdb
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\obj\Debug\netcoreapp3.1\AccountCSV.dll
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\obj\Debug\netcoreapp3.1\AccountCSV.pdb
+C:\Users\cjhar\source\repos\AccountCSV\AccountCSV\obj\Debug\netcoreapp3.1\AccountCSV.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+AccountName,InvoiceDate,DueDate,AmountDue
+Cody Harmon,2/3/2021,3/3/2021,2.00
+Good Builders,2/3/2021,3/3/2021,1200.00
+Better Builders,2/3/2021,3/3/2021,1500.00
+Best Builders,2/5/2021 12:00:00 AM,3/5/2021 12:00:00 AM,150.00
+Greatest Builders,2/5/2021 12:00:00 AM,3/5/2021 12:00:00 AM,1600.00
